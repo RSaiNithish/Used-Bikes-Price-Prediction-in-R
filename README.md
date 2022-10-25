@@ -1,4 +1,4 @@
-# Used-Bikes-Price-Prediction
+# Used Bikes Price Prediction
 
 I have made a model which can predict the price of a used bike based on its given features in the programming language R. This model has been deployed using Docker and made using shiny app.
 
